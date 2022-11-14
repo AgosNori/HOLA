@@ -1,2 +1,2 @@
-print('Hello World :)')
-print('mi nombre es Agos')
+nom=input('Porfavor inserte su nombre: ')
+print("hola ",nom)
